@@ -1,16 +1,8 @@
-INSERT INTO (name,age,gender,color,temperament,alive) VALUES (1,'Mr. Chocolate',20,'M','RED','GOOD','alive'); 
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 15, 'M', 'brown', 'calm', 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Rowdy', 13, 'M', 'dark brown', 'rowdy', 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Tabitha', 7, 'F', 'brown', 'calm', 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 16, 'M', 'brown', 'calm', 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Melissa', 57, 'F', 'brown', 'calm', 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Grinch', 97, 'M', 'brown', 'grumpy', 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Wendy', 92, 'F', 'brown', 'calm', 0);
 
-INSERT INTO (name,age,gender,color,temperament,alive) VALUES (2,'Rowdy',21,'M','BLACK','GOOD','alive');
-
-INSERT INTO (name,age,gender,color,temperament,alive) VALUES (2,'Tabitha',21,'M','BLACK','GOOD','alive');
-
-INSERT INTO (name,age,gender,color,temperament,alive) VALUES (2,'Sergeant Brown',21,'M','BLACK','GOOD','alive');
-
-INSERT INTO (name,age,gender,color,temperament,alive) VALUES (2,'Tabitha',21,'M','BLACK','GOOD','alive');
-
-
-INSERT INTO (name,age,gender,color,temperament,alive) VALUES (2,'Melissa',21,'M','BLACK','GOOD','alive');
-
-INSERT INTO (name,age,gender,color,temperament,alive) VALUES (2,'Grinch',21,'M','BLACK','GOOD','alive');
-
-INSERT INTO (name,age,gender,color,temperament,alive) VALUES (NULL,,NULL,NULL,NULL,NULL,NULL);
