@@ -2,4 +2,6 @@ INSERT INTO (id,name,age,gender,color,temperament,alive) VALUES (1,'Mr. Chocolat
 
 INSERT INTO (id,name,age,gender,color,temperament,alive) VALUES (2,'Rowdy',21,'M','BLACK','GOOD','alive');
 
-INSERT INTO (id,name,age,gender,color,temperament,alive) VALUES (2,'',21,'M','BLACK','GOOD','alive');
+INSERT INTO (id,name,age,gender,color,temperament,alive) VALUES (2,'Tabitha',21,'M','BLACK','GOOD','alive');
+
+
